@@ -1,6 +1,6 @@
 # Clone de um post no instagram
 
-Projeto desenvolvido durante o estágio com a finalidade de reforçar conhecimentos de html e css.
+Projeto desenvolvido durante o estágio com a finalidade de reforçar conhecimentos de html e css. O objetivo era recriar um post do instagram responsivo com essas tecnologias.
 
 As tecnologias usadas foram: 
 
